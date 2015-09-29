@@ -1,1 +1,1 @@
-# lintcode_py
+# leetcode and lintcode by Python
